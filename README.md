@@ -1,13 +1,3 @@
-## hey!! i'am kamilly
-
--  student of: ADS (systems develop)💻
--   currently learning HTML
-- How to reach me: kamillyfer19@gmail.com 📩
-- Pronouns: ela/dela 
--  Fun fact: i´like sto hear musics, and of stranberries 🎧🍓
-
-
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/236x/f4/a7/1f/f4a71f29313d612e94beacef206937ee.jpg"  />
 </div>
@@ -21,15 +11,26 @@
 </div>
 
 
-)
-
-
-
+###
 
 <div align="center"> 
 <a href="https://instagram.com/milly._fernandess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:cmp.1a.kamillyfer19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+###
+
+<p align="left">-  student of: ADS (systems develop)💻</p>
+
+###
+<p align="left">-   currently learning HTML</p>
+
+###
+<p align="left">- How to reach me: kamillyfer19@gmail.com 📩</p>
+
+###
+<p align="left">ela/dela 🍓</p>
+
+###
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
