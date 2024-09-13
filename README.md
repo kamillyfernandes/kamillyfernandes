@@ -17,13 +17,10 @@
 
 <p align="left">-  student of: ADS (systems develop)💻</p>
 
-###
 <p align="left">-   currently learning HTML</p>
 
-###
 <p align="left">- How to reach me: kamillyfer19@gmail.com 📩</p>
 
-###
 <p align="left">ela/dela 🍓</p>
 
 ###
