@@ -6,8 +6,6 @@
 - Pronouns: ela/dela 
 -  Fun fact: i´like sto hear musics, and of stranberries 🎧🍓
 
-   
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamillyfernades/kamillyfernades/output/github-contribution-grid-snake-dark.svg">
