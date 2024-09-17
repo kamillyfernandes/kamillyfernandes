@@ -19,7 +19,7 @@
 
 <p align="left">-   currently learning HTML</p>
 
-<p align="left">ela/dela 🍓</p>
+<p align="left">-   pronome: ela/dela 🍓</p>
 
 ###
 
