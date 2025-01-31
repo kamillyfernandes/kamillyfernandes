@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OII,+MEU+NOME+É+KAMILLY+FERNANDES;EU+TENHO+17+ANOS;GOSTO+DE+OUVIR+MUSICAS+E+MORANGOS+🎧+🍓;ESTOU+CURSANDO+DESENVOLVIMENTO+DE+SISTEMAS;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OII,+MEU+NOME+É+KAMILLY+FERNANDES;EU+TENHO+17+ANOS;GOSTO+DE+OUVIR+MUSICAS+E+MORANGOS+E+TREINAR🎧+🍓+🏋️‍♂️;ESTOU+CURSANDO+DESENVOLVIMENTO+DE+SISTEMAS;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kamillyfernandes&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Kamilly fernandes github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamillyfernandes&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
@@ -17,7 +17,7 @@
 
 <p align="left">-  student of: ADS (systems develop)💻</p>
 
-<p align="left">-   currently learning HTML</p>
+<p align="left">-   currently learning JavaScript</p>
 
 <p align="left">-   pronome: ela/dela 🍓</p>
 
