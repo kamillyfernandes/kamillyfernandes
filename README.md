@@ -17,8 +17,6 @@
 
 <p align="left">-  student of: ADS (systems develop)💻</p>
 
-<p align="left">-   currently learning JavaScript</p>
-
 <p align="left">-   pronome: ela/dela 🍓</p>
 
 ###
